@@ -29,10 +29,10 @@ body {
 
 @media screen and (max-width: 450px){
   .listItem{
-    width: 120px;
+    width: 105px;
   }
 
   .rupees-item{
-    width: 120px;
+    width: 105px;
   }
 }
