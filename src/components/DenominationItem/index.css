@@ -1,0 +1,28 @@
+/* Write your CSS here */
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.rupees-item {
+  border: 1px solid #c4c4c4;
+  background-color: #382f5a;
+  border-radius: 5px;
+  color: #c4c4c4;
+  padding: 3px;
+  font-size: 27px;
+  cursor: pointer;
+  font-weight: bold;
+  width: 135px;
+  font-family: "Roboto";
+}
+
+.listItem {
+  margin: 10px;
+  
+  list-style-type: none;
+  width: 135px;
+}
