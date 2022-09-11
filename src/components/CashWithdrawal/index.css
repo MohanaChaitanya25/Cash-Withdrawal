@@ -24,6 +24,7 @@ body {
   flex-direction: column;
   height: 510px;
   width: 420px;
+  margin: 15px;
 }
 
 .name-container {
@@ -107,12 +108,3 @@ body {
   padding: 0;
 }
 
-@media screen and (max-width: 450px){
-  .listItem{
-    width: 120px;
-  }
-
-  .rupees-item{
-    width: 120px;
-  }
-}
