@@ -1,4 +1,4 @@
-/* Write your CSS here */
+
 body {
   margin: 0;
 }
@@ -105,4 +105,14 @@ body {
   justify-content: space-around;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 450px){
+  .listItem{
+    width: 120px;
+  }
+
+  .rupees-item{
+    width: 120px;
+  }
 }
